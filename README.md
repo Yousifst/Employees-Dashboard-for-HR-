@@ -2,6 +2,7 @@
 A comprehensive, interactive Human Resources (HR) analytics dashboard built with Power BI to monitor and analyze key employee data and organizational trends.
 
 # Project Overview
+
 This project transforms raw employee data into actionable insights, providing HR professionals and management with a clear, data-driven view of the workforce. The dashboard focuses on key metrics to help identify trends, make informed decisions on retention strategies, and optimize workforce planning.
 Key Insights & Features
 Workforce Demographics: Visualizes employee distribution by country (Egypt, Lebanon, Saudi Arabia, Syria, UAE), center location (Main 32, North 23, West 20), and gender (Male 55%, Female 35%).
@@ -17,6 +18,9 @@ DAX: (Presumed) Implemented for data structuring and calculating key metrics and
 To explore the report:Clone this repository.
 Open the Employees_Report.pbix file
 using Power BI Desktop to view the data model and visualizations locally.
+<img width="911" height="515" alt="Employees Dashbord1" src="https://github.com/user-attachments/assets/b089e28c-4f0e-4be3-98e6-9cf37de0916f" />
+<img width="911" height="513" alt="Employees Dashbord2" src="https://github.com/user-attachments/assets/226a1893-0dad-47cb-973c-35741b54cae0" />
+
 
 
 
