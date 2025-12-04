@@ -16,8 +16,14 @@ DAX: (Presumed) Implemented for data structuring and calculating key metrics and
 
 # Getting Started
 To explore the report:Clone this repository.
-Open the Employees_Report.pbix file
+Open the Employees.pbix file
 using Power BI Desktop to view the data model and visualizations locally.
+
+
+
+
+
+
 <img width="911" height="515" alt="Employees Dashbord1" src="https://github.com/user-attachments/assets/b089e28c-4f0e-4be3-98e6-9cf37de0916f" />
 <img width="911" height="513" alt="Employees Dashbord2" src="https://github.com/user-attachments/assets/226a1893-0dad-47cb-973c-35741b54cae0" />
 
