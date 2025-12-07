@@ -3,6 +3,8 @@ A comprehensive, interactive Human Resources (HR) analytics dashboard built with
 
 # Project Overview
 
+https://app.powerbi.com/links/jZ_-if4Mtf?ctid=f56ef0e3-863a-47d4-8dfe-f06094dbe77a&pbi_source=linkShare
+
 This project transforms raw employee data into actionable insights, providing HR professionals and management with a clear, data-driven view of the workforce. The dashboard focuses on key metrics to help identify trends, make informed decisions on retention strategies, and optimize workforce planning.
 Key Insights & Features
 Workforce Demographics: Visualizes employee distribution by country (Egypt, Lebanon, Saudi Arabia, Syria, UAE), center location (Main 32, North 23, West 20), and gender (Male 55%, Female 35%).
